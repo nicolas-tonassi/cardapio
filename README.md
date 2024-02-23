@@ -27,7 +27,7 @@
 - HTML5;
 
 ## Fontes Consultadas 🔗
-- [boot strap](https://getbootstrap.com/)
+- [boot strap](https://getbootstrap.com)
 
 ## Autores 👥
 - [Naillim Novaski](https://github.com/naillimnovaski)
