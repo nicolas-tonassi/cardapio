@@ -1,0 +1,31 @@
+
+div{
+    text-align: center;
+    
+}
+h1{
+    font-family:"Franklin";
+    text-align: center;
+    background-color: brown;
+    color: white;
+}
+  BODY{
+    background-size: 950px;
+
+  }
+  p{
+    color: white;
+  }
+  h3{
+    color:blanchedalmond;
+    background-color: brown;
+  }
+  #tabela{
+    width: 38%;
+    margin: auto;
+    height: 100vh;
+    background-color: #ccc;
+    }
+    h2{
+        color: white;
+    }
