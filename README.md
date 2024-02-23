@@ -15,8 +15,6 @@
 ## Introdução ✉️
 - O projeto de criação de um cardápio em HTML e CSS3 foi uma oportunidade única para explorar e aprimorar nossas habilidades em desenvolvimento web. Nossa equipe escolheu temas variados para criar cardápios personalizados, cada um refletindo nossas preferências e paixões individuais
 
-<img src= "img/imagem-cadastro.png">
-
 ## Funcionalidades 🧠
 - Este projeto foi fundamental para o aprimoramento técnico em HTML e CSS3, permitindo-nos aplicar os conhecimentos adquiridos em sala de aula em um contexto prático e desafiador. Além disso, a elaboração do cardápio nos desafiou a sintetizar informações de diferentes fontes, exercitando nossa capacidade de organização e síntese.
 
