@@ -47,3 +47,25 @@ h3 {
 h2 {
   color: white;
 }
+.rodape{
+  /* border: solid 1px white; */
+  width: 1230px;
+}
+.coluna1{
+  width: 615px;
+  /* border: solid 1px white; */
+  text-align: justify;
+  font-size: 15px;
+}
+footer {
+  background-color:brown;
+  padding: 50px;
+  color: aliceblue;
+  text-align: center;
+}
+a{
+  color:white;
+}
+.coluna2{
+  text-align:right;
+}
